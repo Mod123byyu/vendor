@@ -185,3 +185,7 @@ include vendor/pixelstyle/config.mk
      TealAccent \
      YellowAccent \
      WhiteAccent
+
+ # OmniJaws
+ PRODUCT_PACKAGES += \
+      OmniJaws
