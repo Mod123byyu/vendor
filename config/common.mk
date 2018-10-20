@@ -186,6 +186,7 @@ include vendor/pixelstyle/config.mk
      YellowAccent \
      WhiteAccent
 
- # OmniJaws
+ # Omni
  PRODUCT_PACKAGES += \
-      OmniJaws
+      OmniJaws \
+      OmniRecord
